@@ -532,15 +532,3 @@ This Comment Threading System represents a **professional-grade implementation**
 - **Performance Optimization**: Efficient operations with predictable complexity
 
 The solution demonstrates advanced software engineering principles while maintaining code clarity and maintainability. It serves as a solid foundation for a production comment system and showcases the technical depth expected in modern backend development.
-<span style="display:none">[^1][^2][^3][^4]</span>
-
-<div style="text-align: center">⁂</div>
-
-[^1]: comment_system.py
-
-[^2]: main.py
-
-[^3]: Readme.md
-
-[^4]: test_comment_system.py
-
